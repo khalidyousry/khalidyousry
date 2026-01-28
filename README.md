@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Khalid Yousry 👋
 
-<!--
-**khalidyousry/khalidyousry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst
+I am a results-driven Data Analyst passionate about uncovering stories hidden within data. I specialize in turning complex datasets into clear, interactive visualizations that drive business decisions.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+* **Data Analysis:** Excel (Advanced Dashboards, Pivot Tables), SQL (Data Extraction & Cleaning).
+* **Visualization:** Power BI, Tableau.
+* **Programming:** Python for Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let's Connect
+* **LinkedIn:** https://www.linkedin.com/in/khalid-yousry
+* **Email:** yousryk350@gmail.com
